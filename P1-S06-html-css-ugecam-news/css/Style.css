@@ -1,0 +1,24 @@
+
+
+
+.john {
+    width: 10% !important; 
+    height: 10% !important;
+}
+
+
+.ohz{
+    width: 10% !important; 
+    height: 10% !important;
+}
+
+ 
+#nicole {
+    width: auto;
+    height: 100vh;
+    background-image: url(../images/nicole2.jpg) ; 
+    background-size: cover  ;
+    background-repeat: no-repeat;
+    background-clip:padding-box;
+    opacity: 0.9;
+    
